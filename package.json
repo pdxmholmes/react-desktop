@@ -4,6 +4,7 @@
   "version": "0.3.5",
   "description": "React UI Components for macOS High Sierra and Windows 10",
   "main": "./index.js",
+  "types": "./types/index.d.ts",
   "keywords": [
     "react",
     "react-component",
