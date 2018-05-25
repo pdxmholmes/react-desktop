@@ -5,11 +5,11 @@ import {
   HiddenProps,
   MarginProps,
   PaddingProps
-} from '../styles';
+} from './types/styles';
 import {
   ColorProps,
   ThemeProps
-} from './styles';
+} from './types/windows/styles';
 
 declare module "react-desktop/windows" {
   interface EventHandler {

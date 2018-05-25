@@ -6,7 +6,7 @@ import {
   HiddenProps,
   MarginProps,
   PaddingProps
-} from '../styles'
+} from './types/styles'
 
 declare module "react-desktop/macOs" {
   interface EventHandler {
